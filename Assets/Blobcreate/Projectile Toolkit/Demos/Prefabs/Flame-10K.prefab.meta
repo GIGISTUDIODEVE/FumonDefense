@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1aed7e9d95ad8c4597dd0c012b6960a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Prefabs/Flame-10K.prefab
+  uploadId: 795320

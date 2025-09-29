@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: afd57ca5d22de684794fc2406be430a8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/05 Projectile Aerodynamics.unity
+  uploadId: 795320

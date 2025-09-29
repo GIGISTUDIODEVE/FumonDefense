@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d73243caed1b804468e732944224a7f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Shared/Code/Health/IHealth.cs
+  uploadId: 795320

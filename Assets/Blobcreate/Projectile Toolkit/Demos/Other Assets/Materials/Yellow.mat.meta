@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e78f2cb1f086164099b2c1dbb50ecaf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Other Assets/Materials/Yellow.mat
+  uploadId: 795320

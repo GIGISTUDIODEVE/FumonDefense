@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 81c8d5a84b441fa4d9653c21a016eb26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Core/Projectile Aerodynamics/AeroProjectileLauncher.cs
+  uploadId: 795320

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 90c6536e723145179e60bf2163f8a9b2
+timeCreated: 1711377944
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Core/Projectile Aerodynamics/AeroRuntime.cs
+  uploadId: 795320

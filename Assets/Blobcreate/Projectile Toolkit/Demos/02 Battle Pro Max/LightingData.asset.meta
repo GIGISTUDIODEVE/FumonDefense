@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f0ce6473f6df406bbb6450ef815984e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/02 Battle Pro Max/LightingData.asset
+  uploadId: 795320

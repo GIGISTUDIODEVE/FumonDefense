@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73ee7752919b26c4f9e8bb961042b529
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Prefabs/Defender.prefab
+  uploadId: 795320

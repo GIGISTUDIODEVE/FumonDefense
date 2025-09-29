@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7188f57ea4fc37646b8f30c473035707
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Prefabs/Trajectory Predictor.prefab
+  uploadId: 795320

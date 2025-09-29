@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bc574f4aea5f3948a38aed7923de229
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Other Assets/Materials/Black.mat
+  uploadId: 795320

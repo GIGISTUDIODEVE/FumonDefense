@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db8553f4e0748452291ed38f708970a3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/01 NavMeshLink Jump/LightingData.asset
+  uploadId: 795320

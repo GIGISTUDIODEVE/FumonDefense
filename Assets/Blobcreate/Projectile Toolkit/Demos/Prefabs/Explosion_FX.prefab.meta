@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 054269ac80efa6a40a80841e46db9cfa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Prefabs/Explosion_FX.prefab
+  uploadId: 795320

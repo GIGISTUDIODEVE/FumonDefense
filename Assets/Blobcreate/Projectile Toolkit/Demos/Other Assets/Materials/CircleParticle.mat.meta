@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7eaafbcaff5bb1f4394fd00a15ac5d4e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Other Assets/Materials/CircleParticle.mat
+  uploadId: 795320

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1088c1e2684d564a94bdd6ddd038eab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Other Assets/Materials/SquareParticle.mat
+  uploadId: 795320

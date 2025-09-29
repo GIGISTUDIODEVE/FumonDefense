@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 513e2f6a0a2a7754b83401e1c4e8217f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Other Assets/Settings/PTKLayers.preset
+  uploadId: 795320

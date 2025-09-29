@@ -1,0 +1,15 @@
+Breaking changes that may break your project:
+
+3.0 -> 3.1:
+
+- Rebrand feature name "Aerodynamic Movement" to "Projectile Aerodynamics"
+
+- Move the Projectile Aerodynamics feature from namespace Blobcreate.ProjectileToolkit to Blobcreate.ProjectileToolkit.Aerodynamics
+
+- Rename class AerodynamicMoveSolver to AeroSolver
+
+- Rename class AerodynamicMoveRuntime to AeroRuntime
+
+- Rename field offsetLocal to maxOffset
+
+- Rename AcquireRuntimeParameters(...) to Configure(...)

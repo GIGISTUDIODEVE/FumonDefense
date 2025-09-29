@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 587e663b31f83c545a7c302e94fe453f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216129
+  packageName: Projectile Toolkit - Targeting, Prediction, Aerodynamics
+  packageVersion: 3.1
+  assetPath: Assets/Blobcreate/Projectile Toolkit/Demos/Scripts/01 NavMeshLink_OffMeshLink
+    Jump/NMJump.cs
+  uploadId: 795320
